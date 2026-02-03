@@ -1,8 +1,8 @@
 # alpha-research-framework
 Alpha Research Framework
 
-Python framework for research, testing and evaluation of quantitative alpha signals.
-Проект представляет инфраструктуру для разработки, трансформации и бэктестинга альфа-факторов на финансовых временных рядах.
+Python framework for research, testing and evaluation of quantitative alpha strategies.
+Проект представляет инфраструктуру для разработки, трансформации и бэктестинга альфа-стратегий на финансовых временных рядах.
 
 Подходит для задач Quant Research / ML in Finance / Data Science.
 
